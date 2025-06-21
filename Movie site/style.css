@@ -1,0 +1,216 @@
+
+
+/* Here is the all css (design) of the auth page and the main page! */
+
+#body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100rem;
+    margin: 0px;
+    
+}
+#maindiv{
+    background-color: rgba(255, 255, 255, 0.033);
+    border: 2px solid black;
+    width: 310px;
+    height: 200px;
+    padding-top: 40px;
+}
+#email{
+    font-size: 22px;
+    text-align: center;
+    font-style:  italic;
+    background-color: transparent;
+    border-radius: 5px;
+    outline: 2px solid rgba(245, 245, 245, 0.715);
+    color: white;
+}
+#email:hover{
+    border: 3px solid white;
+}
+#pass{
+    font-size: 22px;
+    text-align: center;
+    font-style:  italic;
+    background-color: transparent;
+    border-radius: 5px;
+    outline: 2px solid rgba(245, 245, 245, 0.715);
+    color: white;
+    display: block;
+}
+#pass:hover{
+    border: 3px solid white;
+}
+#login{
+    font-size: 27px;
+    border-radius: 13px;
+    background-color: rgba(255, 255, 255, 0.062);
+    color: white;    
+}
+#login:hover{
+    border: 3px solid white;
+}
+
+
+
+
+
+/* Main.html */ 
+#body1{
+    background-image: url(Website\ bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+#title{
+    color: white;
+    font-style: italic ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#quote{
+    color: white;
+    font-style: italic ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbardiv{
+    background-color: #7b170582;
+    margin-left: 500px;
+    margin-right: 500px;
+    display: flex;
+    border-radius: 12px;
+    border: black solid 2px;
+}
+ul{
+    display: flex;
+}
+li{
+    font-size: 2rem;
+    color: white;
+}
+#li1{
+    margin-left: 15px;
+}
+#li2{
+    margin-left: 70px;
+}
+#li3{
+    margin-left: 70px;
+}
+#anav{
+    color: white;
+    font-style: normal;
+    text-decoration: none;
+}
+marquee{
+    background-color: rgba(139, 43, 32, 0.338);
+    font-style: italic;
+    color: white;
+}
+#movies{
+    background-color: rgba(255, 255, 255, 0.395);
+    margin-left: 250px;
+    margin-right: 200px;
+    border-radius: 15px;
+}
+#li1m{
+    color: transparent;
+    margin-top: 10px;
+}
+#li2m{
+    color: transparent;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#li3m{
+    color: transparent;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#li4m{
+    color: transparent;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+/* ------------------------------------------ */
+
+/* ------------------------------------------ */
+#snacks{
+    background-color: rgba(255, 255, 255, 0.395);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#li1s{
+    color: transparent;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+#li2s{
+    color: transparent;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+#li3s{
+    color: transparent;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+#li4s{
+    color: transparent;
+    margin-left: 170px;
+    margin-bottom: 30px;
+}
+#li5s{
+    color: transparent;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+#li6s{
+    color: transparent;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+#aboutus{
+    background-color: rgba(255, 255, 255, 0.192);
+}
+#title2{
+    text-align: center;
+    font-size: 4rem;
+    
+}
+#head1{
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 3rem;
+    margin-left: 20px;
+}
+#head2{
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 3rem;
+    margin-left: 20px;
+}
+#question{
+    text-align: center ;
+    background-color: #3f1b04 ;
+    color: white;
+    font-size: 3rem;
+    margin-left: 440px;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#logoutdiv{
+    background-color: rgba(255, 255, 255, 0.192);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+#logoutbtn{
+    color: #e9a66b;
+    font-size: 4rem ;
+    text-align: center;
+    border-radius: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.187);
+}
