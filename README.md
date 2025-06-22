@@ -8,7 +8,7 @@ You’ll find `<img>` tags and `alt` attributes in the code to indicate what kin
 Feel free to add your own images based on the `alt` descriptions
 thank you for understanding!
 
-⚠️3-Propely if there is anything wrong or error plz contact me on my github email : abdulrahman.dev010@gmail.com
+⚠️3-Propely if there is anything wrong or error plz contact me on github,  Gmail: abdulrahman.dev010@gmail.com
 
 --Desc:
 A Movie Site that u can see the available movies and the snacks and an contact us section. (it can be improved....)
